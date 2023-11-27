@@ -1,5 +1,7 @@
+# WIP-More needs to be updated before using 
+
 # GTFS to MySQL
-Load GTFS into a MySQL database
+Load GTFS into a Postgres database
 
 ## Overview
 
